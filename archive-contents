@@ -1,9 +1,7 @@
 (1
  (a .
-    [(0 1 0 -3 2)
-     ((dash
-       (2 12 0))
-      (emacs
+    [(0 1 0 -3 3)
+     ((emacs
        (25)))
      "Associative data structure functions" single
      ((:authors

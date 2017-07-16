@@ -1,7 +1,9 @@
-# Plexus's ELPA Repository
+# LambdaIsland ELPA Repository
 
 ``` emacs-lisp
-(add-to-list 'package-archives '("plexus-elpa" . "https://plexus.github.io/elpa/") t)
+(require 'package)
+(add-to-list 'package-archives
+             '("lambdaisland" . "http://lambdaisland.github.io/elpa/") t)
 ```
 
 ## Contents
