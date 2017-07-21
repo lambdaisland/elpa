@@ -1,4 +1,4 @@
-*lambdaisland/elpa IS NOT ACCEPTING PACKAGES AT THIS POINT*
+**lambdaisland/elpa IS NOT ACCEPTING PACKAGES AT THIS POINT**
 
 To add a package here, or to set up your own ELPA repo, do this
 
