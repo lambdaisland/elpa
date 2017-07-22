@@ -1,4 +1,13 @@
 (1
+ (treepy .
+         [(0 1 0)
+          ((emacs
+            (25 1)))
+          "Generic tree traversing tools" single
+          ((:authors
+            ("Daniel Barreto" . "daniel.barreto.n@gmail.com"))
+           (:maintainer "Daniel Barreto" . "daniel.barreto.n@gmail.com")
+           (:url . "https://github.com/volrath/treepy.el"))])
  (a .
     [(0 1 0 -3 4)
      ((emacs
